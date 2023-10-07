@@ -1,0 +1,23 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluHttpInterceptor"
+                }
+            ],
+            "className": "FluHttpInterceptor",
+            "object": true,
+            "qualifiedClassName": "FluHttpInterceptor",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluHttpInterceptor.h",
+    "outputRevision": 68
+}

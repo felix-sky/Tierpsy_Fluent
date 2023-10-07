@@ -1,0 +1,20 @@
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\88F6BDD6D33A7AA3AF7EF7C320997E3D\QRC_QMAKE_ORG_WANGWENX190_FRAMELESSHELPER.CPP.RULE
+setlocal
+C:\Qt\6.5.2\msvc2019_64\.\bin\rcc.exe --output E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/.rcc/qrc_qmake_org_wangwenx190_FramelessHelper.cpp --name qmake_org_wangwenx190_FramelessHelper E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/.rcc/qmake_org_wangwenx190_FramelessHelper.qrc --no-zstd
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\FLUENTUI\FRAMELESSHELPER\SRC\QUICK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI -BE:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f --check-stamp-file E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

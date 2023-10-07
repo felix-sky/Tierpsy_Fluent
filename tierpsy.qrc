@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Components/FluCustomWindow.qml</file>
+        <file>Components/MainWindow.qml</file>
+        <file>global/ItemsOriginal.qml</file>
+        <file>pages/Home.qml</file>
+        <file>global/ItemsFooter.qml</file>
+        <file>global/MainEvent.qml</file>
+        <file>pages/Settings.qml</file>
+        <file>pages/test.qml</file>
+        <file>Components/stdafx.h</file>
+        <file>favicon.ico</file>
+        <file>pages/About.qml</file>
+        <file>global/qmldir</file>
+        <file>imgs/bg_home.png</file>
+        <file>imgs/python.png</file>
+        <file>pages/Parameter.qml</file>
+        <file>global/ItemSetting.qml</file>
+    </qresource>
+</RCC>

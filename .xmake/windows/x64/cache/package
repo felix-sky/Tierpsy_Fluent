@@ -1,0 +1,6 @@
+{
+    fluentuiplugin = {
+        __requirestr = "fluentuiplugin",
+        __enabled = false
+    }
+}

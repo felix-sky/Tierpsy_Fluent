@@ -1,0 +1,5 @@
+{
+    files = {
+        "circularreveal.h"
+    }
+}

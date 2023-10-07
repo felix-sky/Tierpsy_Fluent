@@ -1,0 +1,173 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluTools"
+                },
+                {
+                    "name": "QML.Singleton",
+                    "value": "true"
+                }
+            ],
+            "className": "FluTools",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "qtMajor",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "name": "qtMinor",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "name": "isMacos",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "name": "isLinux",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "name": "isWin",
+                    "returnType": "bool"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "clipText",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "uuid",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "fileName",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "readFile",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "setQuitOnLastWindowClosed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "shape",
+                            "type": "Qt::CursorShape"
+                        }
+                    ],
+                    "name": "setOverrideCursor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "restoreOverrideCursor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "html",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "html2PlantText",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "name": "toLocalPath",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "p",
+                            "type": "QObject*"
+                        }
+                    ],
+                    "name": "deleteItem",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QUrl"
+                        }
+                    ],
+                    "name": "getFileNameByUrl",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "name": "getVirtualGeometry",
+                    "returnType": "QRect"
+                },
+                {
+                    "access": "public",
+                    "name": "getApplicationDirPath",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "getUrlByFilePath",
+                    "returnType": "QUrl"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "FluTools",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluTools.h",
+    "outputRevision": 68
+}

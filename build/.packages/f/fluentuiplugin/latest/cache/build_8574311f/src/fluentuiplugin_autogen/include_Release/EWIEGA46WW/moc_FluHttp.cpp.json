@@ -1,0 +1,438 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluHttp"
+                }
+            ],
+            "className": "FluHttp",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "get",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "get",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "get",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "post",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "post",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "post",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "postString",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QString"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "postString",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "postString",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "postJson",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "postJson",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "postJson",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "download",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "download",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "download",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        },
+                        {
+                            "name": "headers",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "name": "upload",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        },
+                        {
+                            "name": "params",
+                            "type": "QMap<QString,QVariant>"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "upload",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "callable",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "isCloned": true,
+                    "name": "upload",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "cancel",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_retry",
+                    "name": "retry",
+                    "notify": "retryChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_timeout",
+                    "name": "timeout",
+                    "notify": "timeoutChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "FluHttp",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "retryChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "timeoutChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluHttp.h",
+    "outputRevision": 68
+}

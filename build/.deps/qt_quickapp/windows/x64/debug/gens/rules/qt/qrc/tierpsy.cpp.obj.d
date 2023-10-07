@@ -1,0 +1,22 @@
+{
+    files = {
+        "Main.qml",
+        "favicon.ico",
+        "pages/Parameter.qml",
+        "pages/Settings.qml",
+        "pages/Home.qml",
+        "pages/test.qml",
+        "pages/About.qml",
+        "imgs/bg_home.png",
+        "imgs/python.png",
+        "global/MainEvent.qml",
+        "global/ItemsFooter.qml",
+        "global/ItemSetting.qml",
+        "global/qmldir",
+        "global/ItemsOriginal.qml",
+        "Components/FluCustomWindow.qml",
+        "Components/stdafx.h",
+        "Components/MainWindow.qml",
+        "tierpsy.qrc"
+    }
+}

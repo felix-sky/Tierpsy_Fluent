@@ -1,0 +1,525 @@
+{
+	"BUILD_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen",
+	"CMAKE_BINARY_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/CMakeLists.txt",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/.cmake/version_dll.rc.in",
+		"C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/Def.h",
+			"MU",
+			"EWIEGA46WW/moc_Def.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluApp.h",
+			"MU",
+			"EWIEGA46WW/moc_FluApp.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluCaptcha.h",
+			"MU",
+			"EWIEGA46WW/moc_FluCaptcha.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluColorSet.h",
+			"MU",
+			"EWIEGA46WW/moc_FluColorSet.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluColors.h",
+			"MU",
+			"EWIEGA46WW/moc_FluColors.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluHttp.h",
+			"MU",
+			"EWIEGA46WW/moc_FluHttp.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluHttpInterceptor.h",
+			"MU",
+			"EWIEGA46WW/moc_FluHttpInterceptor.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluRegister.h",
+			"MU",
+			"EWIEGA46WW/moc_FluRegister.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTextStyle.h",
+			"MU",
+			"EWIEGA46WW/moc_FluTextStyle.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTheme.h",
+			"MU",
+			"EWIEGA46WW/moc_FluTheme.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTools.h",
+			"MU",
+			"EWIEGA46WW/moc_FluTools.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluWatermark.h",
+			"MU",
+			"EWIEGA46WW/moc_FluWatermark.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/MainThread.h",
+			"MU",
+			"EWIEGA46WW/moc_MainThread.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/QRCode.h",
+			"MU",
+			"EWIEGA46WW/moc_QRCode.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/Screenshot.h",
+			"MU",
+			"EWIEGA46WW/moc_Screenshot.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/WindowHelper.h",
+			"MU",
+			"EWIEGA46WW/moc_WindowHelper.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/stdafx.h",
+			"MU",
+			"EWIEGA46WW/moc_stdafx.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/ddf_fluentuiplugin.h",
+			"MU",
+			"EJRQKI7XPS/moc_ddf_fluentuiplugin.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/include",
+	"INCLUDE_DIR_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64",
+		"fluentuiplugin_EXPORTS"
+	],
+	"MOC_DEFINITIONS_Debug" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_OPENGL_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64",
+		"fluentuiplugin_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/zxing-cpp/core/src",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/zxing-cpp/core",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQml/6.5.2",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQml/6.5.2/QtQml",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtCore/6.5.2/QtCore",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtCore",
+		"C:/Qt/6.5.2/msvc2019_64/include",
+		"C:/Qt/6.5.2/msvc2019_64/mkspecs/win32-msvc",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQml",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQmlIntegration",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtNetwork",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQuick/6.5.2",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQuick/6.5.2/QtQuick",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtGui/6.5.2/QtGui",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtGui",
+		"C:/VulkanSDK/1.3.250.1/Include",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQmlModels/6.5.2",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQmlModels/6.5.2/QtQmlModels",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQmlModels",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtQuick",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtOpenGL"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [ "-Muri=FluentUI", "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/ColorPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/Checkerboard_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/ColorSlider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/NumberBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/PanelBorder_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/SBPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAcrylic_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAppBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluArea_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAutoSuggestBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluBadge_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluBreadcrumbBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCalendarPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCalendarView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCarousel_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluChart_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCheckBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluColorPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluColorView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluComboBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluContentDialog_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluContentPage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluControl_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCopyableText_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDatePicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDivider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDropDownButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluExpander_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFilledButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFlipView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFocusRectangle_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluIconButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluIcon_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluImage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluInfoBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluItemDelegate_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuBarItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuSeparator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenu_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMultilineTextBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluNavigationView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluObject_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPagination_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemEmpty_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemExpander_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemHeader_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemSeparator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPasswordBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPivotItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPivot_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPopup_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluProgressBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluProgressRing_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluQRCode_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRadioButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRadioButtons_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRatingControl_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRectangle_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRemoteLoader_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScreenshot_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollIndicator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollablePage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluShadow_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluSlider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluSpinBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluStatusView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTabView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTableModelColumn_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTableView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBoxBackground_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBoxMenu_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluText_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTimePicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTimeline_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluToggleButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluToggleSwitch_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTooltip_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTour_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTreeView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluWindow_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qrc_fluentuiplugin_raw_qml_0.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qrc_qmake_FluentUI.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.5.2/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.5.2/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/fluentuiplugin_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[ "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/Def.cpp", "MU", null ],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluApp.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluCaptcha.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluColorSet.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluColors.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluHttp.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluHttpInterceptor.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluRegister.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTextStyle.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTheme.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluTools.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/FluWatermark.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/MainThread.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/QRCode.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/Screenshot.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/WindowHelper.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_qmlcache_loader.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_FluentUIPlugin.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/ColorPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/Checkerboard_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/ColorSlider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/NumberBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/PanelBorder_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/ColorPicker/Content/SBPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAcrylic_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAppBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluArea_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluAutoSuggestBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluBadge_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluBreadcrumbBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCalendarPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCalendarView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCarousel_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluChart_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCheckBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluColorPicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluColorView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluComboBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluContentDialog_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluContentPage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluControl_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluCopyableText_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDatePicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDivider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluDropDownButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluExpander_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFilledButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFlipView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluFocusRectangle_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluIconButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluIcon_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluImage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluInfoBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluItemDelegate_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuBarItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenuSeparator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMenu_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluMultilineTextBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluNavigationView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluObject_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPagination_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemEmpty_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemExpander_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemHeader_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItemSeparator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPaneItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPasswordBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPivotItem_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPivot_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluPopup_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluProgressBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluProgressRing_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluQRCode_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRadioButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRadioButtons_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRatingControl_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRectangle_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluRemoteLoader_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScreenshot_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollBar_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollIndicator_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluScrollablePage_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluShadow_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluSlider_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluSpinBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluStatusView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTabView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTableModelColumn_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTableView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBoxBackground_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBoxMenu_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextBox_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTextButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluText_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTimePicker_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTimeline_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluToggleButton_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluToggleSwitch_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTooltip_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTour_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluTreeView_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qmlcache/fluentuiplugin_imports/FluentUI/Controls/FluWindow_qml.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qrc_fluentuiplugin_raw_qml_0.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.rcc/qrc_qmake_FluentUI.cpp",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

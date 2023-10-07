@@ -1,0 +1,10 @@
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\28EBBBDB0B76C6CCB8F4BC0C32869DCE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI -BE:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/FluentUI.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,51 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "WindowHelper"
+                }
+            ],
+            "className": "WindowHelper",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QQuickWindow*"
+                        }
+                    ],
+                    "name": "initWindow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "window",
+                            "type": "QQuickWindow*"
+                        },
+                        {
+                            "name": "path",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "createRegister",
+                    "returnType": "QVariant"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "WindowHelper",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "WindowHelper.h",
+    "outputRevision": 68
+}

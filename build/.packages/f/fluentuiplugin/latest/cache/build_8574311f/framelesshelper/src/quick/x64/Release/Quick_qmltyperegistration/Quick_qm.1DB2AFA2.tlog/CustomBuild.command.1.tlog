@@ -1,0 +1,32 @@
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\B8BFCD3EEBEE4020843DC258BAEC26F7\QUICK_QMLTYPEREGISTRATIONS.CPP.RULE
+setlocal
+call ..\..\..\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.5.2/msvc2019_64/./bin/qmltyperegistrar.exe --generate-qmltypes=E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/imports/org/wangwenx190/FramelessHelper/Quick.qmltypes --import-name=org.wangwenx190.FramelessHelper --major-version=1 --minor-version=0 @E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/qmltypes/Quick_foreign_types.txt -o E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/quick_qmltyperegistrations.cpp E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/meta_types/qt6quick_metatypes.json
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/.generated
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/.generated/Quick.qmltypes
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\F285580E561BF64F273B35B5AB3CF5EF\QUICK_QMLTYPEREGISTRATION.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\FLUENTUI\FRAMELESSHELPER\SRC\QUICK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI -BE:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f --check-stamp-file E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/quick/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

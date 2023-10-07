@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in
+C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in
+C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in
+C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in
+E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/.cmake/version_dll.rc.in
+E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/src/CMakeLists.txt

@@ -1,0 +1,33 @@
+{
+    find_programver_fetch_package_system = {
+        ["C:\\Program Files\\CMake\\bin\\cmake"] = "3.23.0-rc1"
+    },
+    find_program = {
+        zig = false,
+        ["msbuild.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\msbuild.exe]],
+        unzip = false,
+        ["7z"] = [[C:\Users\felxi\xmake\winenv\bin\7z]],
+        cmake = [[C:\Program Files\CMake\bin\cmake]],
+        git = "git",
+        gzip = false,
+        ["pkg-config"] = false,
+        pkgconf = false,
+        ["cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64\cl.exe]]
+    },
+    ["detect.sdks.find_vcpkgdir"] = false,
+    find_package_windows_x64_fetch_package_xmake = {
+        ["xmake::fluentuiplugin_8574311f4b544fa89a3d8c3ee79d1929_release_latest_external"] = false
+    },
+    find_program_fetch_package_system = {
+        cmake = [[C:\Program Files\CMake\bin\cmake]]
+    },
+    find_program_fetch_package_xmake = {
+        cmake = false
+    },
+    find_programver = {
+        ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe"] = false
+    },
+    find_package_windows_x64_fetch_package_system = {
+        fluentuiplugin_8574311f4b544fa89a3d8c3ee79d1929_release_external = false
+    }
+}

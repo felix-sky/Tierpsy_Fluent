@@ -1,0 +1,406 @@
+{
+	"BUILD_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen",
+	"CMAKE_BINARY_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/CMakeLists.txt",
+		"C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/framelessdialog.h",
+			"MU",
+			"T7QVUVOWXG/moc_framelessdialog.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/framelesshelperwidgets_global.h",
+			"MU",
+			"T7QVUVOWXG/moc_framelesshelperwidgets_global.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/framelessmainwindow.h",
+			"MU",
+			"T7QVUVOWXG/moc_framelessmainwindow.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/framelesswidget.h",
+			"MU",
+			"T7QVUVOWXG/moc_framelesswidget.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/framelesswidgetshelper.h",
+			"MU",
+			"T7QVUVOWXG/moc_framelesswidgetshelper.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/framelessdialog_p.h",
+			"MU",
+			"PXABU6NHSP/moc_framelessdialog_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/framelessmainwindow_p.h",
+			"MU",
+			"PXABU6NHSP/moc_framelessmainwindow_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/framelesswidget_p.h",
+			"MU",
+			"PXABU6NHSP/moc_framelesswidget_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/framelesswidgetshelper_p.h",
+			"MU",
+			"PXABU6NHSP/moc_framelesswidgetshelper_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/standardsystembutton_p.h",
+			"MU",
+			"PXABU6NHSP/moc_standardsystembutton_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/standardtitlebar_p.h",
+			"MU",
+			"PXABU6NHSP/moc_standardtitlebar_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private/widgetssharedhelper_p.h",
+			"MU",
+			"PXABU6NHSP/moc_widgetssharedhelper_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/standardsystembutton.h",
+			"MU",
+			"T7QVUVOWXG/moc_standardsystembutton.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/standardtitlebar.h",
+			"MU",
+			"T7QVUVOWXG/moc_standardtitlebar.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_framelessdialog.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessdialog_p.h",
+			"MU",
+			"EWIEGA46WW/moc_framelessdialog_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesshelperwidgets_global.h",
+			"MU",
+			"EWIEGA46WW/moc_framelesshelperwidgets_global.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessmainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_framelessmainwindow.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessmainwindow_p.h",
+			"MU",
+			"EWIEGA46WW/moc_framelessmainwindow_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidget.h",
+			"MU",
+			"EWIEGA46WW/moc_framelesswidget.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidget_p.h",
+			"MU",
+			"EWIEGA46WW/moc_framelesswidget_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidgetshelper.h",
+			"MU",
+			"EWIEGA46WW/moc_framelesswidgetshelper.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidgetshelper_p.h",
+			"MU",
+			"EWIEGA46WW/moc_framelesswidgetshelper_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardsystembutton.h",
+			"MU",
+			"EWIEGA46WW/moc_standardsystembutton.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardsystembutton_p.h",
+			"MU",
+			"EWIEGA46WW/moc_standardsystembutton_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardtitlebar.h",
+			"MU",
+			"EWIEGA46WW/moc_standardtitlebar.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardtitlebar_p.h",
+			"MU",
+			"EWIEGA46WW/moc_standardtitlebar_p.cpp",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/widgetssharedhelper_p.h",
+			"MU",
+			"EWIEGA46WW/moc_widgetssharedhelper_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/include",
+	"INCLUDE_DIR_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/Widgets_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"FRAMELESSHELPER_CORE_STATIC",
+		"FRAMELESSHELPER_WIDGETS_LIBRARY",
+		"FRAMELESSHELPER_WIDGETS_NO_DEBUG_OUTPUT",
+		"FRAMELESSHELPER_WIDGETS_STATIC",
+		"NOMINMAX",
+		"NTDDI_VERSION=0x0A00000C",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DEPRECATED_WARNINGS_SINCE=0x070000",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x070000",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x070000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_GUI_LIB",
+		"QT_NO_AS_CONST",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_CONTEXTLESS_CONNECT",
+		"QT_NO_DEBUG",
+		"QT_NO_FOREACH",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_KEYWORDS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_NO_USING_NAMESPACE",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"QT_WIDGETS_LIB",
+		"STRICT",
+		"UNICODE",
+		"WIN32",
+		"WIN32_LEAN_AND_MEAN",
+		"WIN64",
+		"WINRT_LEAN_AND_MEAN",
+		"WINVER=0x0A00",
+		"_CRT_NONSTDC_NO_DEPRECATE",
+		"_CRT_NONSTDC_NO_WARNINGS",
+		"_CRT_NON_CONFORMING_SWPRINTFS",
+		"_CRT_SECURE_NO_DEPRECATE",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_SCL_SECURE_NO_DEPRECATE",
+		"_SCL_SECURE_NO_WARNINGS",
+		"_UNICODE",
+		"_USE_MATH_DEFINES",
+		"_WIN32_IE=0x0A00",
+		"_WIN32_WINNT=0x0A00",
+		"_WIN64"
+	],
+	"MOC_DEFINITIONS_Debug" : 
+	[
+		"FRAMELESSHELPER_CORE_STATIC",
+		"FRAMELESSHELPER_WIDGETS_LIBRARY",
+		"FRAMELESSHELPER_WIDGETS_NO_DEBUG_OUTPUT",
+		"FRAMELESSHELPER_WIDGETS_STATIC",
+		"NOMINMAX",
+		"NTDDI_VERSION=0x0A00000C",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DEPRECATED_WARNINGS_SINCE=0x070000",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x070000",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x070000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_GUI_LIB",
+		"QT_NO_AS_CONST",
+		"QT_NO_CAST_FROM_ASCII",
+		"QT_NO_CAST_FROM_BYTEARRAY",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_CONTEXTLESS_CONNECT",
+		"QT_NO_FOREACH",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_KEYWORDS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_NO_URL_CAST_FROM_STRING",
+		"QT_NO_USING_NAMESPACE",
+		"QT_USE_FAST_OPERATOR_PLUS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"QT_WIDGETS_LIB",
+		"STRICT",
+		"UNICODE",
+		"WIN32",
+		"WIN32_LEAN_AND_MEAN",
+		"WIN64",
+		"WINRT_LEAN_AND_MEAN",
+		"WINVER=0x0A00",
+		"_CRT_NONSTDC_NO_DEPRECATE",
+		"_CRT_NONSTDC_NO_WARNINGS",
+		"_CRT_NON_CONFORMING_SWPRINTFS",
+		"_CRT_SECURE_NO_DEPRECATE",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_SCL_SECURE_NO_DEPRECATE",
+		"_SCL_SECURE_NO_WARNINGS",
+		"_UNICODE",
+		"_USE_MATH_DEFINES",
+		"_WIN32_IE=0x0A00",
+		"_WIN32_WINNT=0x0A00",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Widgets/private",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Core",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/include/FramelessHelper/Core/private",
+		"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/core",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtWidgets",
+		"C:/Qt/6.5.2/msvc2019_64/include",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtCore",
+		"C:/Qt/6.5.2/msvc2019_64/mkspecs/win32-msvc",
+		"C:/Qt/6.5.2/msvc2019_64/include/QtGui",
+		"C:/VulkanSDK/1.3.250.1/Include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.5.2/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.5.2/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/framelesshelper/src/widgets/CMakeFiles/Widgets_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesshelperwidgets_global.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelessmainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/framelesswidgetshelper.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardsystembutton.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/standardtitlebar.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/widgets/widgetssharedhelper.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

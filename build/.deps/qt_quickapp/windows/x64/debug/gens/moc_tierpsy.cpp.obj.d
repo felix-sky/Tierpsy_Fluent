@@ -1,0 +1,5 @@
+{
+    files = {
+        "tierpsy.h"
+    }
+}

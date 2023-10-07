@@ -1,0 +1,32 @@
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\D88C98C9556F4C0EEB79A2C31615047A\FLUENTUIPLUGIN_QMLTYPEREGISTRATIONS.CPP.RULE
+setlocal
+call ..\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.5.2/msvc2019_64/./bin/qmltyperegistrar.exe --generate-qmltypes=C:/Qt/6.5.2/msvc2019_64/qml/FluentUI/plugins.qmltypes --import-name=FluentUI --major-version=1 --minor-version=0 @E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/qmltypes/fluentuiplugin_foreign_types.txt -o E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/fluentuiplugin_qmltyperegistrations.cpp E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/meta_types/qt6fluentuiplugin_metatypes.json
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.generated
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/.generated/plugins.qmltypes
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\BUILD\.PACKAGES\F\FLUENTUIPLUGIN\LATEST\CACHE\BUILD_8574311F\CMAKEFILES\CE26541F08976699AA49E7CEC72133E1\FLUENTUIPLUGIN_QMLTYPEREGISTRATION.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MFD\TIERPSY-ADVANCE-GUI\TIERPSY\FLUENTUI\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI -BE:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f --check-stamp-file E:/MFD/Tierpsy-Advance-Gui/Tierpsy/build/.packages/f/fluentuiplugin/latest/cache/build_8574311f/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

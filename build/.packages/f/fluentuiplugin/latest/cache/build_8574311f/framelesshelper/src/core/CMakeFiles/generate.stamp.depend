@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake
+C:/Qt/6.5.2/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in
+E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/core/CMakeLists.txt
+E:/MFD/Tierpsy-Advance-Gui/Tierpsy/FluentUI/framelesshelper/src/core/framelesshelper.version.in
