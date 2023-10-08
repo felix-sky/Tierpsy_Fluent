@@ -15,6 +15,7 @@ FluScrollablePage{
         id: item_high
         Layout.fillWidth: true
         Layout.preferredHeight: 320
+
         Image {
             id: bg
             fillMode:Image.PreserveAspectCrop
@@ -54,56 +55,70 @@ FluScrollablePage{
         }
     } // Item
 
-    Image{
-        id: python_icon
-        fillMode:Image.PreserveAspectCrop
-        source: "qrc:/imgs/python.png"
-        Layout.preferredHeight: 50
-        Layout.preferredWidth: 50
+    Item{
+        id: item_low
+        height: 50
+        width: 50
+        Image{
+            id: python_icon
+            fillMode:Image.PreserveAspectCrop
+            source: "qrc:/imgs/python.png"
+            height: 50
+            width: 50
 
-        Layout.topMargin: 10
-    }
-
-    FluTextBox{
-        id: python_loc
-        height: 30
-        width: 300
-        placeholderText: qsTr("python路径")
-        anchors{
-            left: python_icon.right
-            leftMargin: 10
-            verticalCenter: python_icon.verticalCenter
+            anchors.topMargin: 10
         }
-        text: ItemSetting.pythonPath
-        onTextChanged: {
-            text = text.replace("file:///", "");
-            ItemSetting.pythonPath = text
-        }
-    }
+        FluTextBox{
+            id: python_loc
 
-    FluArea{
-        id: python_loc_fast_btn_bg
-        anchors.fill: python_loc_fast_btn
-    }
 
-    FluTextButton{
-        id: python_loc_fast_btn
-        Layout.preferredHeight: 30
-        Layout.preferredWidth: 25
-        text: qsTr("...")
-        anchors{
-            left: python_loc.right
-            top: python_loc.top
+            placeholderText: qsTr("python路径")
+
+            anchors{
+                left: python_icon.right
+                leftMargin: 10
+                verticalCenter: python_icon.verticalCenter
+            }
+            width: 300
+            height: 30
+
+            text: ItemSetting.pythonPath
+            onTextChanged: {
+                text = text.replace("file:///", "");
+                ItemSetting.pythonPath = text
+            }
         }
 
-        onClicked: {
-            fileDialog_python_loc.open()
+        FluArea{
+            id: python_loc_fast_btn_bg
+            anchors.fill: python_loc_fast_btn
         }
-    }
 
-    FileDialog {
-        id: fileDialog_python_loc
-        currentFolder: StandardPaths.standardLocations(StandardPaths.PicturesLocation)[0]
-        onAccepted: python_loc.text = selectedFile
-    }
+        FluTextButton{
+            id: python_loc_fast_btn
+            Layout.preferredHeight: 30
+            Layout.preferredWidth: 25
+            text: qsTr("...")
+            anchors{
+                left: python_loc.right
+                top: python_loc.top
+            }
+
+            onClicked: {
+                fileDialog_python_loc.open()
+            }
+        }
+
+        FileDialog {
+            id: fileDialog_python_loc
+            currentFolder: StandardPaths.standardLocations(StandardPaths.PicturesLocation)[0]
+            onAccepted: python_loc.text = selectedFile
+        }
+    } // Item
+
+
+
+
+
+
 } // FluScrollablePage
