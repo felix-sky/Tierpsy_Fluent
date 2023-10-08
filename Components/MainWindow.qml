@@ -20,7 +20,7 @@ FluCustomWindow {
     appBarVisible: false
     launchMode: FluWindowType.SingleTask
 
-    closeFunc: function(event){
+    closeListener:function(event){
         dialog_close.open();
         event.aceepted = false;
     }

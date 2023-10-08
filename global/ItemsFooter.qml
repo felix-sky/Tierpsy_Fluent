@@ -14,7 +14,7 @@ FluObject{
     FluPaneItem{
         title:qsTr("关于")
         icon:FluentIcons.Contact
-        tapFunc:function(){
+        onTap:{
             FluApp.navigate("/about")
         }
     }
